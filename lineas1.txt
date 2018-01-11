@@ -1,0 +1,12 @@
+import system.out.println
+
+
+public class Dibuja{
+
+    public main(){
+
+    }
+
+}
+
+
